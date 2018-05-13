@@ -26,20 +26,23 @@ namespace MinimumRoomProject
             #region Input for the program
             //uncomment any one 
             #region entry for random input data
-            arr.Add(new int[1, 2] { { 30, 75 } });
-            arr.Add(new int[1, 2] { { 0, 50 } });
-            arr.Add(new int[1, 2] { { 60, 150 } });
+            //arr.Add(new int[1, 2] { { 30, 75 } });
+            //arr.Add(new int[1, 2] { { 0, 50 } });
+            //arr.Add(new int[1, 2] { { 60, 150 } });
+            //arr.Add(new int[1, 2] { { 65, 150 } });
+            //arr.Add(new int[1, 2] { { 70, 150 } });
+            //arr.Add(new int[1, 2] { { 90, 150 } });
 
             //arr.Add(new int[1, 2] { { 0, 20 } });
             //arr.Add(new int[1, 2] { { 25, 45 } });
             //arr.Add(new int[1, 2] { { 50, 90 } });
             //arr.Add(new int[1, 2] { { 95, 150 } });
 
-            //arr.Add(new int[1, 2] { { 0, 10 } });
-            //arr.Add(new int[1, 2] { { 20, 30 } });
-            //arr.Add(new int[1, 2] { { 25, 40 } });
-            //arr.Add(new int[1, 2] { { 45, 90 } });
-            //arr.Add(new int[1, 2] { { 50, 90 } });
+            arr.Add(new int[1, 2] { { 0, 10 } });
+            arr.Add(new int[1, 2] { { 20, 30 } });
+            arr.Add(new int[1, 2] { { 35, 40 } });
+            arr.Add(new int[1, 2] { { 45, 90 } });
+            arr.Add(new int[1, 2] { { 95, 150 } });
 
             //arr.Add(new int[1, 2] { { 10, 50 } });
             //arr.Add(new int[1, 2] { { 70, 80 } });
@@ -187,7 +190,7 @@ namespace MinimumRoomProject
             }
             else
             {
-                minimumRoom = pair.Min();
+                minimumRoom = pair.Max();
             }
             #endregion
 
