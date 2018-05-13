@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\obj\Debug\MinimumRoomProject.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\obj\Debug\MinimumRoomProject.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\bin\Debug\MinimumRoomProject.exe.config
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\bin\Debug\MinimumRoomProject.exe
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\bin\Debug\MinimumRoomProject.pdb
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\obj\Debug\MinimumRoomProject.exe
+C:\Users\Home\Desktop\delete\MinimumRoomProject\MinimumRoomProject\obj\Debug\MinimumRoomProject.pdb
